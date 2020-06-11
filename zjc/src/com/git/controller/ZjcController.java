@@ -1,0 +1,13 @@
+package com.git.controller;
+
+public class ZjcController {
+	
+	
+	private int id;
+	private String username;
+	private String password;
+	private int sex;
+	private String love;
+
+
+}
